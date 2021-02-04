@@ -1,2 +1,2 @@
 # SE_Game_dev
-SGE GOAL
+SDG GOAL
